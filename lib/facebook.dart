@@ -209,7 +209,7 @@ class Facebook extends StatelessWidget {
                       child: Column(
                         children: [
                           Text(
-                            'Abdul Muiz',
+                            'Muizz Khan',
                             style: TextStyle(fontWeight: FontWeight.bold),
                           ),
                           Padding(
