@@ -78,7 +78,7 @@ class Facebook extends StatelessWidget {
                         width: 130,
                         decoration: BoxDecoration(
                           image: DecorationImage(
-                              image: AssetImage('images/Sharjeel.jpeg'),
+                              image: AssetImage('images/Asif.png'),
                               fit: BoxFit.cover),
                           color: Colors.blue,
                           borderRadius: BorderRadius.circular(20),
@@ -90,10 +90,10 @@ class Facebook extends StatelessWidget {
                             crossAxisAlignment: CrossAxisAlignment.start,
                             children: [
                               CircleAvatar(
-                                backgroundImage: AssetImage('images/Sharjeel.jpeg'),
+                                backgroundImage: AssetImage('images/Asif.png'),
                               ),
                               Text(
-                                'Ahmad',
+                                'Muhammad',
                                 style: TextStyle(
                                     color: Colors.white, fontSize: 11),
                               ),
@@ -109,7 +109,7 @@ class Facebook extends StatelessWidget {
                       width: 130,
                       decoration: BoxDecoration(
                         image: DecorationImage(
-                            image: AssetImage('images/Sharjeel.jpeg'),
+                            image: AssetImage('images/Asif.png'),
                             fit: BoxFit.cover),
                         color: Colors.blue,
                         borderRadius: BorderRadius.circular(20),
@@ -121,10 +121,10 @@ class Facebook extends StatelessWidget {
                           crossAxisAlignment: CrossAxisAlignment.start,
                           children: [
                             CircleAvatar(
-                              backgroundImage: AssetImage('images/Sharjeel.jpeg'),
+                              backgroundImage: AssetImage('images/Asif.png'),
                             ),
                             Text(
-                              'Sharjeel',
+                              'Asif',
                               style:
                                   TextStyle(color: Colors.white, fontSize: 11),
                             ),
@@ -139,7 +139,7 @@ class Facebook extends StatelessWidget {
                       width: 130,
                       decoration: BoxDecoration(
                         image: DecorationImage(
-                            image: AssetImage('images/Sharjeel.jpeg'),
+                            image: AssetImage('images/Asif.png'),
                             fit: BoxFit.cover),
                         color: Colors.blue,
                         borderRadius: BorderRadius.circular(20),
@@ -151,10 +151,10 @@ class Facebook extends StatelessWidget {
                           crossAxisAlignment: CrossAxisAlignment.start,
                           children: [
                             CircleAvatar(
-                              backgroundImage: AssetImage('images/Sharjeel.jpeg'),
+                              backgroundImage: AssetImage('images/Asif.png'),
                             ),
                             Text(
-                              'Ahmad',
+                              'Nawaz',
                               style:
                                   TextStyle(color: Colors.white, fontSize: 11),
                             ),
@@ -169,7 +169,7 @@ class Facebook extends StatelessWidget {
                       width: 130,
                       decoration: BoxDecoration(
                         image: DecorationImage(
-                            image: AssetImage('images/Sharjeel.jpeg'),
+                            image: AssetImage('images/Asif.png'),
                             fit: BoxFit.cover),
                         color: Colors.blue,
                         borderRadius: BorderRadius.circular(20),
@@ -181,10 +181,10 @@ class Facebook extends StatelessWidget {
                           crossAxisAlignment: CrossAxisAlignment.start,
                           children: [
                             CircleAvatar(
-                              backgroundImage: AssetImage('images/Sharjeel.jpeg'),
+                              backgroundImage: AssetImage('images/Asif.png'),
                             ),
                             Text(
-                              'Sharjeel',
+                              'Muhammad',
                               style:
                                   TextStyle(color: Colors.white, fontSize: 11),
                             ),
