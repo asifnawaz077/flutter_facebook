@@ -35,7 +35,7 @@ class Facebook extends StatelessWidget {
                   Padding(
                     padding: const EdgeInsets.only(left: 12.0),
                     child: CircleAvatar(
-                      backgroundImage: AssetImage('images/Sharjeel.jpeg'),
+                      backgroundImage: AssetImage('images/Asif.png'),
                     ),
                   ),
                   SizedBox(
