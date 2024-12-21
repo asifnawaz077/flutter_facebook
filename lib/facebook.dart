@@ -263,9 +263,7 @@ class Facebook extends StatelessWidget {
                     ),
                     Icon(Icons.chat_bubble_outline,),
                     Text('33.1k')
-                    
                   ],
-
                 ),
               ),
             ],

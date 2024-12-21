@@ -1,3 +1,4 @@
+import 'package:fb/Splash_Screen.dart';
 import 'package:fb/facebook.dart';
 import 'package:flutter/material.dart';
 
@@ -12,7 +13,8 @@ class MyApp extends StatelessWidget {
   Widget build(BuildContext context) {
     return MaterialApp(
       debugShowCheckedModeBanner: false,
-      home: Facebook(),
+      //home: Facebook(),
+      home: SpalshScreen(),
     );
   }
 }
